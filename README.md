@@ -1,7 +1,9 @@
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 <div align="center">
 
 # 🥋 KungFu AI using Asynchronous Advantage Actor-Critic (A3C) 
 ### Master the Art of KungFu with AI-Powered Reinforcement Learning
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ![A3C](https://img.shields.io/badge/Algorithm-A3C-red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.12-orange)
@@ -9,17 +11,18 @@
 
 ![KungFu AI](https://img.shields.io/badge/AI-KungFu-green)
   
-<img src="https://yourimagepath.com/kungfu3d.gif" alt="KungFu AI Animation" width="500"/>
+![download-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c5c0f9e7-74b3-4376-9435-4ceeec8c4096)
 
 </div>
 
----
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
 
 ## 🚀 Project Overview
 
 This project showcases an implementation of **A3C (Asynchronous Advantage Actor-Critic)** in **PyTorch** to train an AI capable of mastering **KungFu** in an Atari environment. The **multi-threaded training** approach accelerates learning, making the AI more adept at real-time decision-making. By utilizing advanced reinforcement learning techniques, this AI agent becomes a KungFu master!
 
----
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ## 🛠️ Key Features
 
@@ -29,7 +32,7 @@ This project showcases an implementation of **A3C (Asynchronous Advantage Actor-
 - **3D Visuals & Animations**: Integrated AI-powered 3D models showcasing the KungFu moves dynamically.
 - **Real-time Learning Feedback**: Watch the AI agent improve and adapt its fighting strategies in real-time.
 
----
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ## 🎯 Tech Stack
 
@@ -45,7 +48,7 @@ This project showcases an implementation of **A3C (Asynchronous Advantage Actor-
 - **CUDA Acceleration**
 - **Multi-threading with PyTorch**
 
----
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ## 💡 Implementation Highlights
 
@@ -81,12 +84,16 @@ python
             super().__init__(env)
             self.height, self.width = height, width
 
+  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
+
 📈 Performance
 
     Training Threads: 8 parallel agents
     Max Episode Length: 500 steps
     Total Training Time: 10 hours (on GPU)
     Reward Optimization: Utilizing advantage-based updates to optimize learning speed and stability.
+
+  <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 ✨ Future Enhancements
 
